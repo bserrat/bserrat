@@ -41,13 +41,6 @@ I'm currently studying for a **Higher Vocational Diploma in System & Network Adm
 
 ---
 
-## 📂 **Featured Projects**
-🔹 *Coming soon!* — labs, scripts, and automation tools as I continue learning  
-🔹 Network and server configuration examples  
-🔹 Virtualization and containerization setups  
-
----
-
 ## 📫 **Get in Touch**
 If you'd like to collaborate, share ideas, or discuss a project, feel free to reach out!
 
