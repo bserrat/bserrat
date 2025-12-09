@@ -1,16 +1,25 @@
-## Hi there 👋
+bserrat 👋
 
-<!--
-**bserrat/bserrat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Actualment estic cursant el Grau Superior d’Administració de Sistemes Informàtics en Xarxa, on m’estic formant en administració de servidors, virtualització, seguretat informàtica i gestió de xarxes.
 
-Here are some ideas to get you started:
+M’agrada entendre com funcionen les coses “per dins” i gaudeixo automatitzant tasques, configurant sistemes i cercant solucions eficients a problemes tècnics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Tecnologies i àrees que m’interessen
+
+Administració de sistemes Linux i Windows
+
+Xarxes i seguretat
+
+Virtualització i contenidors (VMware, Proxmox, Docker)
+
+Scripting (Bash, PowerShell, Python)
+
+Monitorització i gestió d’infraestructures
+
+🎯 Objectiu
+
+Continuar aprenent i créixer com a professional IT mentre comparteixo projectes, exercicis i scripts que puguin ser útils per a altres estudiants i aficionats.
+
+📫 Contacte
+
+Si vols comentar algun projecte o col·laborar, no dubtis a contactar amb mi!
