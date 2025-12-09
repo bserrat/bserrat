@@ -1,25 +1,56 @@
-bserrat 👋
+# 🌐 **Hello! I'm an bserrat**  
 
-Actualment estic cursant el Grau Superior d’Administració de Sistemes Informàtics en Xarxa, on m’estic formant en administració de servidors, virtualització, seguretat informàtica i gestió de xarxes.
+Welcome to my GitHub profile!  
+I'm currently studying for a **Higher Vocational Diploma in System & Network Administration (ASIX)**, and I'm passionate about building, securing, and understanding IT infrastructures from the ground up.
 
-M’agrada entendre com funcionen les coses “per dins” i gaudeixo automatitzant tasques, configurant sistemes i cercant solucions eficients a problemes tècnics.
+---
 
-🔧 Tecnologies i àrees que m’interessen
+## 🚀 **About Me**
+- 💻 Enthusiastic about **system administration**, **networking**, and **cybersecurity**  
+- 🐧 Linux lover & Windows server explorer  
+- ⚙️ Always looking for ways to **automate tasks** and improve workflows  
+- 📚 Constantly learning, experimenting, and sharing my progress here
 
-Administració de sistemes Linux i Windows
+---
 
-Xarxes i seguretat
+## 🛠️ **Technologies & Tools I Work With**
 
-Virtualització i contenidors (VMware, Proxmox, Docker)
+### **Systems**
+- Linux (Ubuntu, Debian, CentOS)  
+- Windows Server
 
-Scripting (Bash, PowerShell, Python)
+### **Networking**
+- VLANs, DHCP, DNS, Firewalling  
+- Routing & network security basics
 
-Monitorització i gestió d’infraestructures
+### **Virtualization & Containers**
+- VMware / Proxmox  
+- Docker
 
-🎯 Objectiu
+### **Scripting & Development**
+- Bash  
+- PowerShell  
+- Python
 
-Continuar aprenent i créixer com a professional IT mentre comparteixo projectes, exercicis i scripts que puguin ser útils per a altres estudiants i aficionats.
+---
 
-📫 Contacte
+## 🎯 **My Goals**
+- Improve my skills in system and network administration  
+- Build useful scripts, labs, and infrastructure simulations  
+- Contribute to open-source and learn from the community  
 
-Si vols comentar algun projecte o col·laborar, no dubtis a contactar amb mi!
+---
+
+## 📂 **Featured Projects**
+🔹 *Coming soon!* — labs, scripts, and automation tools as I continue learning  
+🔹 Network and server configuration examples  
+🔹 Virtualization and containerization setups  
+
+---
+
+## 📫 **Get in Touch**
+If you'd like to collaborate, share ideas, or discuss a project, feel free to reach out!
+
+---
+
+⭐ *Thanks for visiting my profile — stay tuned for more!*  
